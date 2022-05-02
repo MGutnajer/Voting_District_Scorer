@@ -1,5 +1,3 @@
-# Voting-District-Plan_Assessment_Application
-This application is designed to assess voting district plans.
 # Voting District Plan Assessment Application: Quick Start
 
 This application is designed to assess the quality of voting district plans from the perspective of compactness and split municipalities. 
